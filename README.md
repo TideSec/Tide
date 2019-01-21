@@ -1,4 +1,4 @@
-<div align=center><img src=images/tide.png width=20% ></div>
+<div align=center><img src=images/logo.png width=30% ></div>
 
 # Tide
 
