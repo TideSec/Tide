@@ -11,6 +11,8 @@ tips2:团队没有专门做前端的，借鉴了fofa和zoomeye的部分前端，
 
 tips3:功能再完善一些，拟准备开源。
 
+tips4:感谢Xxlm、Yune、紫瀚等团队成员的长期付出（www.tidesec.net）
+
 ```
 ****
 
