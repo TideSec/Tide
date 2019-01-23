@@ -72,13 +72,13 @@ tips4:感谢Xxlm、Yune、紫瀚等团队成员的长期付出（www.tidesec.net
 
 对全国范围或某地区数据进行汇总展示，对各端口、协议进行图表展示。
 
-![pic](images/pic3.png)
+![pic](images/pic2.png)
 
 - 查询语法
 
 提供查询语法、查询接口等。
 
-![pic](images/pic2.png)
+![pic](images/pic3.png)
 
 - 资产展示
 
