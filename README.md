@@ -66,7 +66,7 @@ tips4:感谢Xxlm、Yune、紫瀚等团队成员的长期付出（www.tidesec.net
 
 查询主界面，各种协议、端口总量的展示，平台的简介等。
 
-![pic](images/pic1.png)
+![pic](images/pic1.jpg)
 
 - 数据统计
 
