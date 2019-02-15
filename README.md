@@ -17,6 +17,9 @@ tips3:功能再完善一些，拟准备开源。
 tips4:感谢Xxlm、Yune、紫瀚等团队成员的长期付出（www.tidesec.net）
 
 ```
+
+**Demo地址：`http://demo.tidesec.net`**
+
 ****
 
 # 目录
@@ -215,4 +218,8 @@ tips4:感谢Xxlm、Yune、紫瀚等团队成员的长期付出（www.tidesec.net
 - 降低敏感字、暗链、webshell的检测误报率
 
 
+# 关注我们
 
+**TideSec安全团队：**
+
+![pic](images/ewm.png)
